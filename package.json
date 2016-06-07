@@ -1,0 +1,17 @@
+{
+  "name": "run_lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Fernando Correa de Oliveira <fco@cpan.org>",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.1.21",
+    "mongomq": "^0.3.7",
+    "node-uuid": "^1.4.7"
+  }
+}
