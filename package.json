@@ -10,7 +10,7 @@
   "author": "Fernando Correa de Oliveira <fco@cpan.org>",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^2.1.21",
+    "mongodb": "^3.6.2",
     "mongomq": "^0.3.7",
     "node-uuid": "^1.4.7"
   }
